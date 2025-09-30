@@ -2,7 +2,7 @@
 
 MSc Statistics (DSML) @ Imperial
 
-BSc Mtahematics @ Imperial
+BSc Mathematics @ Imperial
 
 Likes:
 - horseriding
